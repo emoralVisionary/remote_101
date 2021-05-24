@@ -2,3 +2,4 @@ SYSTEM
 with immersion
 And MUSINSA
 remote
+local
